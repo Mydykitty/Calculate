@@ -1,2 +1,1 @@
-This project contains plus, minus, times and divide
-Junit test file
+This project contains Java file and Junit test file
